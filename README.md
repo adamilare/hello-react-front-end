@@ -16,7 +16,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Hello Rails Back-end <a name="about-project"></a>
+# 📖 Hello React Front-end <a name="about-project"></a>
 
 It is a simple web app built with React, to demonstrate a project setup involving Rails and React implemented as separate applications.
 
@@ -34,7 +34,7 @@ It is a simple web app built with React, to demonstrate a project setup involvin
 <details>
   <summary>Server</summary>
   <ul>
-    <li>Ruby-on-Rails [Back-end](https://github.com/adamilare/hello-react-back-end)</li>
+    <li>Ruby-on-Rails [Back-end]https://github.com/adamilare/hello-rails-back-end)</li>
   </ul>
 </details>
 
@@ -47,7 +47,7 @@ It is a simple web app built with React, to demonstrate a project setup involvin
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-This app uses API from its back-end counterpart [front-end](https://github.com/adamilare/hello-react-back-end)
+This app uses API from its back-end counterpart [front-end](https://github.com/adamilare/hello-rails-back-end)
 
 ### Prerequisites
 
